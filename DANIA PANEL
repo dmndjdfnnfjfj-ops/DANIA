@@ -6,9 +6,9 @@
         "Allowoffline": true
     },
     {
-        "device_id": "a9cfbfa9e8157a41",
+        "device_id": "7a8ec4da11512d9f",
         "key": "mika",
         "expirydate": "30-12-9999",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
