@@ -6,14 +6,8 @@
         "Allowoffline": true
     },
     {
-        "device_id": "7a8ec4da11512d9f",
-        "key": "mikaking",
-        "expirydate": "30-12-9999",
-        "Allowoffline": false
-    },
-    {
         "device_id": "a9cfbfa9e8157a41",
         "key": "msking",
         "expirydate": "30-12-9999",
         "Allowoffline": false
-    {
+    }
