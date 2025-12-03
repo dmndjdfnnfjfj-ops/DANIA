@@ -16,5 +16,12 @@
         "key": "OP",
         "expirydate": "15-12-2029",
         "Allowoffline": false
+    },
+
+{
+        "device_id": "f21d593879047de2",
+        "key": "ON",
+        "expirydate": "15-12-2029",
+        "Allowoffline": false
     }
 ]
