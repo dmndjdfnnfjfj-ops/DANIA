@@ -10,5 +10,11 @@
         "key": "nooobbb",
         "expirydate": "15-12-2029",
         "Allowoffline": false
+    },
+{
+        "device_id": "90216cef6abb63c8",
+        "key": "OP",
+        "expirydate": "15-12-2029",
+        "Allowoffline": false
     }
 ]
