@@ -30,5 +30,12 @@
         "key": "TV",
         "expirydate": "15-12-2029",
         "Allowoffline": false
+    }،
+
+{
+        "device_id": "11212a6d1f5dfed4",
+        "key": "GTA",
+        "expirydate": "15-12-2029",
+        "Allowoffline": false
     }
 ]
