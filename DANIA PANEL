@@ -23,5 +23,12 @@
         "key": "ON",
         "expirydate": "15-12-2029",
         "Allowoffline": false
+    },
+
+{
+        "device_id": "c8ddead6d1c4f188",
+        "key": "TV",
+        "expirydate": "15-12-2029",
+        "Allowoffline": false
     }
 ]
