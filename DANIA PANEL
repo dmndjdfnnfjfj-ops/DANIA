@@ -14,7 +14,7 @@
 {
         "device_id": "90216cef6abb63c8",
         "key": "OP",
-        "expirydate": "15-12-2029",
+        "expirydate": "16-12-2029",
         "Allowoffline": false
     },
 
@@ -35,7 +35,7 @@
 {
         "device_id": "11212a6d1f5dfed4",
         "key": "GTA",
-        "expirydate": "15-12-2029",
+        "expirydate": "17-12-2029",
         "Allowoffline": false
     }
-]
+{
