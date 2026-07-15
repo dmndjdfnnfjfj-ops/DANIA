@@ -35,5 +35,11 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "d44e949c3d64c7c9",
+        "key": "ASYP",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 ]
