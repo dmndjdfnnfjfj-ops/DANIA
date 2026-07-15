@@ -41,5 +41,11 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "b8803afb8e667313",
+        "key": "ZERO",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 ]
