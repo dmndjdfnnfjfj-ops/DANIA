@@ -6,15 +6,10 @@
         "Allowoffline": true
     },
     {
-        "device_id": "a8fad517ef68e051",
-        "key": "mika",
+        "device_id": "95eac352c17d5151",
+        "key": "Mmdff555",
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
-{
-        "device_id": "95eac352c17d5151",
-        "key": "Mmdff",
-        "expirydate": "31-12-9999",
-        "Allowoffline": false
-    }
+
 ]
