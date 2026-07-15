@@ -47,5 +47,11 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "39f798c7983cc26b",
+        "key": "SARA",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 ]
