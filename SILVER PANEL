@@ -29,5 +29,11 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "5bdc7afe056eeadb",
+        "key": "Gtaki",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 ]
