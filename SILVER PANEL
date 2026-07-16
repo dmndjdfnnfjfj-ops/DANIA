@@ -59,5 +59,11 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "a167e08b79c2af6d",
+        "key": "SILVER12",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 ]
