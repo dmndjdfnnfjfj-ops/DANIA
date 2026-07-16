@@ -53,5 +53,11 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "2bb881caed3bd415",
+        "key": "Mmd",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 ]
