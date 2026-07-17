@@ -65,5 +65,18 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "6bfc0520ce84f2ae",
+        "key": "Amirali",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+{
+        "device_id": "82b1cbfac45cc6da",
+        "key": "MA",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+
 
 ]
