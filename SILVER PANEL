@@ -83,6 +83,12 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "d205d337e2c240be",
+        "key": "SILVER00",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 
 ]
