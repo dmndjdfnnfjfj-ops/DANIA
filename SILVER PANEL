@@ -89,6 +89,12 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "e1982d2e0e7ce817",
+        "key": "RAIDER",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 
 ]
