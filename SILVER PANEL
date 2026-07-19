@@ -95,6 +95,12 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "53c71ec032197d09",
+        "key": "silent",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 
 
 ]
