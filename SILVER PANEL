@@ -28,5 +28,11 @@
         "key": "amir",
         "expirydate": "31-12-9999",
         "Allowoffline": false
+    },
+{
+        "device_id": "dc603573e30642ed",
+        "key": "box",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
     }
 ]
