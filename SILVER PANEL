@@ -22,5 +22,11 @@
         "key": "AT",
         "expirydate": "31-12-9999",
         "Allowoffline": false
+    },
+{
+        "device_id": "1f18678e33272974",
+        "key": "amir",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
     }
 ]
