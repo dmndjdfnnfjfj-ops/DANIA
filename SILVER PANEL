@@ -58,5 +58,11 @@
         "key": "silvi",
         "expirydate": "31-12-9999",
         "Allowoffline": false
+    },
+{
+        "device_id": "49c593d83281ce1f",
+        "key": "Dexter",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
     }
 ]
