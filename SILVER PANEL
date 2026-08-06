@@ -77,4 +77,10 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+
+        "device_id": "172a803f596ef678",
+        "key": "REZA",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]
