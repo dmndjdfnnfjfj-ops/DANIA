@@ -52,5 +52,11 @@
         "key": "asdf",
         "expirydate": "31-12-9999",
         "Allowoffline": false
+    },
+{
+        "device_id": "6cb04582b57be281",
+        "key": "silvi",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
     }
 ]
