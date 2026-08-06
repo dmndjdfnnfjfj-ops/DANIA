@@ -6,7 +6,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "d205d337e2c240be",
+        "device_id": "",
         "key": "MMDYT",
         "expirydate": "31-12-9999",
         "Allowoffline": false
@@ -84,7 +84,7 @@
         "Allowoffline": false
     },
 {
-        "device_id": "d205d337e2c240be",
+        "device_id": "",
         "key": "mmd",
         "expirydate": "31-12-9999",
         "Allowoffline": false
@@ -96,7 +96,7 @@
         "Allowoffline": false
     },
 {
-        "device_id": "d205d337e2c240be",
+        "device_id": "",
         "key": "SONAMI",
         "expirydate": "31-12-9999",
         "Allowoffline": false
@@ -108,14 +108,14 @@
         "Allowoffline": false
     },
 {
-        "device_id": "d205d337e2c240be",
+        "device_id": "",
         "key":"SILVER",
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
 {
         "device_id": "d205d337e2c240be",
-        "key": "SILVER34",
+        "key": "mmdsilver",
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
