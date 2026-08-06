@@ -97,7 +97,13 @@
     },
 {
         "device_id": "d205d337e2c240be",
-        "key": YY"silver",
+        "key": "SONAMI",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+{
+        "device_id": "666366673ef8caa7",
+        "key":"silver",
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
