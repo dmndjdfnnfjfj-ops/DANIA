@@ -40,5 +40,17 @@
         "key": "silverui",
         "expirydate": "31-12-9999",
         "Allowoffline": false
+    },
+{
+        "device_id": "124289e3c8dc71e5",
+        "key": "opg",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+{
+        "device_id": "ddbb51f3ff85eb33",
+        "key": "asdf",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
     }
 ]
