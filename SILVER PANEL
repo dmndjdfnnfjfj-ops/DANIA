@@ -71,4 +71,10 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "b3920c41703bb19e",
+        "key": "box",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]
