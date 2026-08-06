@@ -6,7 +6,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "95eac352c17d5151",
+        "device_id": "d205d337e2c240be",
         "key": "Silver",
         "expirydate": "31-12-9999",
         "Allowoffline": false
@@ -66,7 +66,7 @@
         "Allowoffline": false
     },
 {
-        "device_id": "d205d337e2c240be",
+        "device_id": "",
         "key": "silver",
         "expirydate": "31-12-9999",
         "Allowoffline": false
