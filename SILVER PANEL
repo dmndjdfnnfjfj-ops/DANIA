@@ -119,4 +119,10 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "debefab062fb9bcf",
+        "key": "svip",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]
