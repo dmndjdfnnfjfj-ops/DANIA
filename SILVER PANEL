@@ -125,4 +125,10 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "0b4ef60a40e2c492",
+        "key": "sip",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]
