@@ -143,4 +143,10 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "88e8e6d1b9b04a6a",
+        "key": "did",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]
