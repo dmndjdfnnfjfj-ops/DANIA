@@ -149,4 +149,10 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+{
+        "device_id": "26ec2e093659b543",
+        "key": "rage",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]
