@@ -155,4 +155,11 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
+
+{
+        "device_id": "03aa98264eb1c93f",
+        "key": "BWG",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
 ]
