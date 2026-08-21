@@ -131,12 +131,7 @@
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
-{
-        "device_id": "d205d337e2c240be",
-        "key": "mmdyt",
-        "expirydate": "31-12-9999",
-        "Allowoffline": false
-    },
+
 {
         "device_id": "966efbaa3c5c96dc",
         "key": "مهرسام",
@@ -159,6 +154,12 @@
 {
         "device_id": "03aa98264eb1c93f",
         "key": "BWG",
+        "expirydate": "31-12-9999",
+        "Allowoffline": false
+    },
+{
+        "device_id": "d205d337e2c240be",
+        "key": "silver",
         "expirydate": "31-12-9999",
         "Allowoffline": false
     },
